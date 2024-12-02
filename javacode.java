@@ -18,7 +18,7 @@
             ],
             "Condition": {
                 "StringEquals": {
-                    "ec2:ResourceTag/Owner": "Bob"
+                    "ec2:ResourceTag/Owner": " projectkk"
                 }
             }
         }
